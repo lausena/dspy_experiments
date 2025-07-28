@@ -1,4 +1,20 @@
-2025-07-17 12:45:50,624 - rag_logger - INFO - Starting RAG
-2025-07-17 12:46:28,141 - rag_logger - INFO - Starting RAG
-2025-07-17 12:46:37,257 - rag_logger - INFO - Starting RAG
-2025-07-17 12:46:55,183 - rag_logger - INFO - Starting RAG
+2025-07-17 14:05:35,802 - rag_logger - INFO - Starting RAG
+2025-07-17 14:05:40,568 - rag_logger - INFO - Starting RAG
+2025-07-17 14:09:49,360 - rag_logger - INFO - Starting RAG
+2025-07-17 14:10:08,250 - rag_logger - INFO - Starting RAG
+2025-07-17 14:11:30,327 - rag_logger - INFO - Starting RAG
+2025-07-17 14:11:30,328 - rag_logger - INFO - <dspy.clients.lm.LM object at 0x150eef950>
+2025-07-17 14:12:14,825 - rag_logger - INFO - Starting RAG
+2025-07-17 14:12:14,825 - rag_logger - INFO - <dspy.clients.lm.LM object at 0x104b3bb60>
+2025-07-17 14:16:32,431 - rag_logger - INFO - Starting RAG
+2025-07-17 14:17:07,627 - rag_logger - INFO - Starting RAG
+2025-07-17 14:17:41,930 - rag_logger - INFO - Starting RAG
+2025-07-17 14:19:01,720 - rag_logger - INFO - Starting RAG
+2025-07-17 14:19:16,580 - rag_logger - INFO - Starting RAG
+2025-07-17 14:20:41,143 - rag_logger - INFO - Starting RAG
+2025-07-17 14:21:03,890 - rag_logger - INFO - Starting RAG
+2025-07-17 14:21:15,800 - rag_logger - INFO - Starting RAG
+2025-07-17 14:22:05,465 - rag_logger - INFO - Starting RAG
+2025-07-17 14:22:28,721 - rag_logger - INFO - Starting RAG
+2025-07-17 14:24:13,410 - rag_logger - INFO - Starting RAG
+2025-07-17 15:15:06,895 - rag_logger - INFO - Starting RAG
